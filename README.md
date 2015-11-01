@@ -1,5 +1,7 @@
 # Pebble
 
+This is an attempt to modernize the Pebble blog.
+
 The prerequisites are as follows.
 
  * Java 5.0
